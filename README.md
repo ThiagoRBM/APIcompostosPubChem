@@ -1,5 +1,4 @@
 # APIcompostosPubChem
-APIcompostosPubChem
 
 
 Script com função para buscar informações sobre compostos químicos no site PubChem (https://pubchem.ncbi.nlm.nih.gov/) através da própria API deles.
